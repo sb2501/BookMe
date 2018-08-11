@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "819636772683",
+    "firebase_url": "https://bookme-ea740.firebaseio.com",
+    "project_id": "bookme-ea740",
+    "storage_bucket": "bookme-ea740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819636772683:android:daededa8a2d4639c",
+        "android_client_info": {
+          "package_name": "com.sboyd.bookme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819636772683-u58ca57v9hstjmaubnmnbq20trf6tdh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sboyd.bookme",
+            "certificate_hash": "5785920ee63a09de2de97d048f19f5a3636d87dd"
+          }
+        },
+        {
+          "client_id": "819636772683-grp8hh12ps5dv50an0kjl83odnv52sp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfy8YymPRjwcy5re4hd3GC6rYnDTZDS1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819636772683-grp8hh12ps5dv50an0kjl83odnv52sp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
